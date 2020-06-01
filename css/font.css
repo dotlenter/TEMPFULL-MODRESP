@@ -1,0 +1,52 @@
+@font-face {
+	font-family:JosefinSans-Light;
+	src: url(Fonts/JosefinSans-Light.ttf);
+}
+@font-face {
+	font-family:JosefinSans-Regular;
+	src: url(Fonts/JosefinSans-Regular.ttf);
+}
+@font-face {
+	font-family:JosefinSans-Thin;
+	src: url(Fonts/JosefinSans-Thin.ttf);
+}
+@font-face {
+	font-family:OpenSans-Regular;
+	src: url(Fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+	font-family:OpenSans-Light;
+	src: url(Fonts/OpenSans-Light.ttf);
+}
+@font-face {
+	font-family:OpenSans-Bold;
+	src: url(Fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+	font-family:timeburnernormal;
+	src: url(Fonts/timeburnernormal.ttf);
+}
+@font-face {
+	font-family:timeburnerbold;
+	src: url(Fonts/timeburnerbold.ttf);
+}
+@font-face{
+	font-family: Exo-Medium;
+	src: url(Fonts/Exo-Medium.otf);
+}
+@font-face{
+	font-family: Exo-Light;
+	src: url(Fonts/Exo-Light.otf);
+}
+@font-face{
+	font-family: Comfortaa-Light;
+	src: url(Fonts/Comfortaa-Light.ttf);
+}
+@font-face{
+	font-family: Comfortaa-Bold;
+	src: url(Fonts/Comfortaa-Bold.ttf);
+}
+@font-face{
+	font-family: Questrial-Regular;
+	src: url(Fonts/Questrial-Regular.otf);
+}

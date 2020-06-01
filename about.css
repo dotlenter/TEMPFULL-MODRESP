@@ -1,0 +1,170 @@
+.header-about-modResp{
+  width: 100%;
+  height: 600px;
+  font-family: Questrial-Regular;
+  font-size: 24px;
+  background: url('Image/people.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  position: relative;
+}
+.header-about-modResp:after{
+    display: block;
+    content:'';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    border-top: solid 50px #A834A2;
+    border-left: solid 50px transparent;
+    border-right: solid 50px transparent;
+}
+.header-cont-about-modResp{
+  width: 80%;
+  margin: 0 auto;
+  height: auto;
+}
+.header-aboutimg-modResp{
+  margin: 35px 50px 0 30px;
+  width: 300px;
+  height: 400px;
+  display: block;
+  transform:rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform-origin:left center;
+  -webkit-transform-origin:left center;
+  -moz-transform-origin:left center;
+  -o-transform-origin:left center;
+
+
+}
+.img-diamondwrapper-modResp{
+   display: inline-block;
+   margin-top:100px;
+   overflow:hidden;
+   width:200px;
+   height:200px;
+   border:1px solid white;
+   transform:rotate(45deg);
+   -webkit-transform:rotate(45deg);
+   -moz-transform:rotate(45deg);
+   -o-transform:rotate(45deg);
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+}
+.h1-about-modResp{
+  color: white;
+  font-family: Comfortaa-Bold;
+  font-size: 28px;
+  margin-top: 100px;
+}
+.p-about-modResp{
+  color:white;
+  font-family: Comfortaa-Light;
+  font-size: 20px;
+}
+.pblack-about-modResp{
+  color:black;
+  font-family: Comfortaa-Light;
+  font-size: 20px;
+  padding: 0 70px 0 70px;
+  text-align: center;
+  line-height: 1.5;
+}
+.about-container-modResp{
+  width: 100%;
+  height: auto;
+  margin-top: 100px;
+}
+.about-content-modResp{
+  width: 80%;
+  height: auto;
+  background: white;
+  margin: 0 auto;
+  padding: 50px 10px 50px 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.about_wrap-content-modResp{
+  width: 800px;
+  margin: 0 auto;
+}
+.blue_wrapper-about-modResp{
+  width: 100%;
+  height: 150px;
+  margin-top: 30px;
+  background: #59ABE3;
+}
+.blue_wrapper_content-about-modResp{
+  width: 80%;
+  height: 150px;
+  margin: 0 auto;
+}
+.h1blue_wrap-about-modResp{
+  color: white;
+  font-family: Comfortaa-Bold;
+  font-size: 48px;
+  padding-top: 50px;
+}
+
+.red_wrapper-about-modResp{
+  width: 100%;
+  height: 150px;
+  margin-top: 30px;
+  background: #DB5A6B;
+}
+.red_wrapper_content-about-modResp{
+  width: 80%;
+  height: 150px;
+  margin: 0 auto;
+}
+.h1red_wrap-about-modResp{
+  color: white;
+  font-family: Comfortaa-Bold;
+  font-size: 48px;
+  padding-top: 50px;
+}
+.h1red_wrap-about-modResp:hover{
+  cursor: pointer;
+}
+.nav-links-about-modResp{
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+}
+.nav-links-about-modResp li{
+  list-style: none;
+  width: auto;
+  margin-top: 50px;
+  height: auto;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  padding: 30px 0 30px 0;
+}
+.nav-links-about-modResp li:hover{
+  padding: 50px 10px 50px 10px;
+}
+.nav-links-about-modResp a{
+  text-decoration: none;
+  color: white;
+  font-size: 48px;
+  width: 100%;
+  height: 200px;
+  transition: 0.5s;
+}
+.about-skills-container{
+  width: 100%;
+}
+.about-skills-content{
+  width: 60%;
+  margin: 0 auto;
+}

@@ -1,0 +1,46 @@
+.header-about-modResp{
+  height: 510px;
+  background: url('Image/inrocket_contact.jpg') no-repeat top center fixed !important;
+}
+.header-about-modResp:after{
+  border-top: solid 0px #e0ebe8;
+}
+.contact-main-container{
+  width: 100%;
+}
+.contact-main-content{
+  width: 60%;
+  height: auto;
+  margin: 0 auto;
+  background: white;
+  margin-top: 30px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 5px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  padding-bottom: 45px;
+  border-left: 5px solid #52789D;
+}
+#contact-h1{
+  margin-left: 20px;
+}
+#form-sendmessage{
+}
+#email{
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 20px;
+  padding: 5px;
+  width: 250px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 2px 3px 0 rgba(0, 0, 0, 0.10);
+}
+#name{
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 20px;
+  padding: 5px;
+  width: 250px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 2px 3px 0 rgba(0, 0, 0, 0.10);
+}
+#message{
+  resize: none;
+}

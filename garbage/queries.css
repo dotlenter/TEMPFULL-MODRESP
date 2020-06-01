@@ -1,0 +1,34 @@
+@media only screen and (min-width: 1500px)  {
+  .homecontainer-modResp{
+    display: block;
+  }
+  .homecontainer-modResp-android{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1500px)  {
+  .homecontainer-modResp{
+    display: none;
+  }
+  .homecontainer-modResp-android{
+    display: block;
+  }
+}
+@media only screen and (max-width: 1050px)  {
+
+  .header-logo-modResp{
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+  }
+  .header-h1-modResp{
+    display: none;
+  }
+  .header-cont-modResp{
+    width: auto;
+  }
+}
+@media only screen and (max-width: 1050px)  {
+
+}

@@ -1,0 +1,145 @@
+@media only screen and (min-width: 1400px)  {
+  .homecontainer-modResp{
+    display: block;
+  }
+  .homecontainer-modResp-android{
+    display: none;
+  }
+  .nav-header-modResp{
+    display: block;
+  }
+
+}
+
+@media only screen and (max-width: 1400px)  {
+  .homecontainer-modResp{
+    display: none;
+  }
+  .homecontainer-modResp-android{
+    display: block;
+  }
+  .blog-sidesection-modResp{
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+  }
+  .blog-sections-modResp{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1050px)  {
+
+  .header-logo-modResp{
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+  }
+  .blog-img-icon-modResp{
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+  .header-h1-modResp{
+    display: none;
+  }
+  .header-cont-modResp{
+    width: auto;
+    height: auto;
+  }
+  .footer-links-modResp{
+    width: 100%;
+  }
+  .footer-about-links-modResp{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1050px)  {
+  .header-modResp{
+
+  }
+  .header-logo-modResp{
+
+  }
+  .about_wrap-content-modResp{
+    width: 100%;
+  }
+
+}
+@media only screen and (max-width: 860px) {
+  .blog-head-content-modResp{
+    width: 100%;
+  }
+  .sidesection-comment-container{
+    margin-left: 5px;
+  }
+}
+@media only screen and (max-width: 700px){
+  .nav-header-modResp{
+    display: none;
+  }
+  #nav-menu-modResp-android{
+    display: block;
+    margin-top: 20px;
+  }
+  .h1red_wrap-about-modResp{
+    font-size: 28px;
+  }
+  .blog-navigation-modResp{
+    display: none;
+  }
+  #blog-menu-modResp-android{
+    display: block;
+    margin-top: 45px;
+    margin-right: 15px;
+  }
+}
+@media only screen and (max-width: 500px){
+  .h1blue_wrap-about-modResp{
+    font-size: 22px;
+  }
+  .img-diamondwrapper-modResp{
+    width:150px;
+    height:150px;
+  }
+  .header-aboutimg-modResp{
+    width: 250px;
+    height: 350px;
+  }
+  #blogImage-modResp{
+    width: 100%;
+    height: 150px;
+  }
+  .header-welcomeh1-modResp{
+    font-size: 28px;
+  }
+  .contact-main-content{
+    width: 90%;
+  }
+  #email, #name{
+    width: 180px;
+  }
+  #message{
+    width: 185px;
+  }
+}
+
+@media only screen and (max-width: 400px){
+  .footer-links-modResp input[type="text"]{
+    width: 200px;
+  }
+  .footer-cont-modResp{
+    height: 350px;
+  }
+  .footer-socmedia-modResp{
+    margin-left: 0;
+  }
+  .footer-socialmedias-modResp{
+    width: 200px;
+  }
+  .footer-bottomcopyright-modResp{
+    padding-top: 190px;
+  }
+
+}
